@@ -80,3 +80,5 @@ This task demonstrates the ability to build and train an end-to-end deep learnin
 Final output : 
 
 <img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/4aaca660-511a-4a84-bbbd-0b9c9d16740b" />
+
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/abe51953-e6ba-4351-8fea-a5fcf7834d6b" />
