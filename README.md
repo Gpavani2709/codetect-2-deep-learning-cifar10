@@ -77,4 +77,6 @@ Git & GitHub
 🚀 Outcome:
 This task demonstrates the ability to build and train an end-to-end deep learning model for real-world image classification. It shows proficiency in TensorFlow/Keras, data preprocessing techniques, performance evaluation, and model serialization. The final model achieved approximately 71% accuracy, and is reusable for inference or further fine-tuning.
 
+Final output : 
 
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/4aaca660-511a-4a84-bbbd-0b9c9d16740b" />
